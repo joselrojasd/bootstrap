@@ -1,0 +1,46 @@
+nav a{
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+	border-radius: 3px !important;
+}
+nav a:hover{
+	background: orange !important;
+}
+nav ul{
+	position: absolute;
+	bottom: 20px;
+	right: 0;
+
+}
+nav{
+	height: 100px;
+}
+nav img{
+	padding-top: 20px;
+}
+#sesion-cadi .input-group{
+	margin-bottom: 20px;
+}
+.panel{
+	margin-top: 20px;
+}
+.col-sm-8{
+	padding-top: 100px;
+}
+#servicios{
+	background: rgb(0,84,143);
+	height: 250px;
+}
+#servicios article{
+	height: 250px;
+}
+#servicios article:hover{
+	background: orange;
+	}
+main{
+	margin-top: 100px;
+}
+.cont-serv{
+	width: 80%;
+	margin: auto;
+}
