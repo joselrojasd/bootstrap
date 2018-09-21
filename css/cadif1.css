@@ -28,14 +28,15 @@ nav img{
 	padding-top: 100px;
 }
 #servicios{
-	background: rgb(0,84,143);
+	background: #184d9b;
 	height: 250px;
 }
 #servicios article{
 	height: 250px;
+	color: white;
 }
 #servicios article:hover{
-	background: orange;
+	background: #ff5f02;
 	}
 main{
 	margin-top: 100px;
