@@ -44,3 +44,24 @@ main{
 	width: 80%;
 	margin: auto;
 }
+h2{
+	text-align: center;
+}
+form{
+	height: 200px;
+	background: lightgreen;
+	padding: 20px;
+	border-radius: 10px;
+}
+#servicios{
+	padding: 20px;
+	height: 300px;
+}
+#servicios article{
+	padding: 5px;
+}
+nav li a{
+	font-size: large;
+	color: black;
+	margin: 20px;
+}
