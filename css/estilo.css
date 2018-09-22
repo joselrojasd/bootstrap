@@ -19,3 +19,19 @@ h2{
 	padding: 10px;
 
 }
+.row p{
+	text-align: justify;
+	padding: 10px;
+}
+.row img{
+	border-radius: 10px;
+
+} 
+.col-sm-4 a:hover{
+	background-color: lightgray;
+	border-radius: 5px;
+	font-size: 30px;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+	}
