@@ -1,7 +1,7 @@
 nav a{
 	padding-top: 2px !important;
 	padding-bottom: 2px !important;
-	border-radius: 3px !important;
+	border-radius: 15px !important;
 }
 nav a:hover{
 	background: orange !important;
@@ -28,7 +28,7 @@ nav img{
 	padding-top: 100px;
 }
 #servicios{
-	background: rgb(0,84,143);
+	background: #000000;
 	height: 250px;
 }
 #servicios article{
@@ -44,3 +44,13 @@ main{
 	width: 80%;
 	margin: auto;
 }
+body{
+	background-image: url(https://img.freepik.com/psd-gratis/diseno-de-fondo-abstracto_1297-82.jpg?size=664&ext=jpg);
+}
+h2{
+	color: white;
+}
+ footer{
+	color: white;
+}
+
