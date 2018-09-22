@@ -44,3 +44,23 @@ main{
 	width: 80%;
 	margin: auto;
 }
+
+body
+{
+	background: #F39C12;
+}
+.container
+{
+	width: 15%;
+}
+
+h2
+{
+	text-align: center;
+}
+.control-label col-sm-2
+{
+	position: relative;
+	float: left;
+	left: -150px;
+}
