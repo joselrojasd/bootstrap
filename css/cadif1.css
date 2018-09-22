@@ -4,12 +4,12 @@ nav a{
 	border-radius: 3px !important;
 }
 nav a:hover{
-	background: orange !important;
+	background:  orange !important;
 }
 nav ul{
 	position: absolute;
 	bottom: 20px;
-	right: 0;
+	right: 9px;
 
 }
 nav{
@@ -35,7 +35,7 @@ nav img{
 	height: 250px;
 }
 #servicios article:hover{
-	background: orange;
+	background:  orange;
 	}
 main{
 	margin-top: 100px;
