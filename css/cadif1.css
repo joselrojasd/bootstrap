@@ -50,5 +50,13 @@ h2{
 form{
 	height: 200px;
 	background: lightgreen;
-	padding: 10px;
+	padding: 20px;
+	border-radius: 10px;
+}
+#servicios{
+	padding: 20px;
+	height: 300px;
+}
+#servicios article{
+	padding: 5px;
 }
