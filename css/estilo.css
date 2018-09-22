@@ -5,3 +5,7 @@ footer .container-fluid{
 #tab{
 	margin-top:4em;
 }
+*{
+	font-family: cambria;
+	font-style: italic;
+}
