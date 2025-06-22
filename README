@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title style="color: blueviolet;">Jenny Fernanda Auza Dos Reis</title>    
+</head>
+<body>
+    <main>
+        <section>
+            <ul>
+                <li>Se realizaron cambios de comentarios en la carpeta CADIF1.html</li>
+                <li>Se realizaron cambios de comentarios en la carpeta formularios.html</li>
+                <li>Se crea un archivo readme.html</li>
+            </ul>  
+        </section>
+    </main>
+</body>
+</html>
