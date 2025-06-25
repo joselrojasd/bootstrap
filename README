@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+  	<title> Fork Rafael Bullones </title>
+  </head>
+  <body>
+    <h1> Explicando los cambios realizados </h1>
+    <p>
+      En la carpeta <b>estilos.css</b>, cambie el color del fondo y de las letras del head. Y en la carpeta <b>index.html</b> coloque en un párrafo un texto diciendo "Rafael estuvo aquí"
+  	</p>
+  </body>
+</html>
