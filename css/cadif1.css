@@ -4,7 +4,7 @@ nav a{
 	border-radius: 3px !important;
 }
 nav a:hover{
-	background: orange !important;
+	background: rgb(243, 39, 83) !important;
 }
 nav ul{
 	position: absolute;
@@ -28,7 +28,7 @@ nav img{
 	padding-top: 100px;
 }
 #servicios{
-	background: rgb(0,84,143);
+	background: rgb(213, 68, 232);
 	height: 250px;
 }
 #servicios article{
